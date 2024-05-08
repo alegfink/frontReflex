@@ -1,5 +1,5 @@
 import reflex as rx
 
 config = rx.Config(
-    app_name="link_bio_v2_back",
+    app_name="link_bio",
 )
